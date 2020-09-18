@@ -1,1 +1,35 @@
-#
+# R created files
+*.Rproj
+*.Rproj.user
+*.Rhistory
+*.Ruserdata
+*.history
+*.RData
+
+
+# Image/PDF/other docs
+*.png
+*.jpg
+*.docx
+*.doc
+*.pdf
+
+# Misc Knit Files
+*.aux
+*.gz
+*.log
+*.rdx
+*.rdb
+*.knit.md
+*cache
+*.results
+
+# Other
+*.httr-oauth
+*.DS_Store
+
+# Specific file keep
+!README.md
+
+# emacs backup files
+*~
